@@ -2,7 +2,7 @@
 #include<math.h>
 using namespace std;
 int main() {
-	int a, b; 
+	int a, b; int c1;
     cout<<"Enter First number: ";
 	cin >> a ;
     cout<<"\nEnter Second Number: ";
